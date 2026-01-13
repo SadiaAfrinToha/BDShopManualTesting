@@ -1,2 +1,2 @@
 # BDShopManualTesting
-A real-world manual QA testing project on Bdshop
+Manual Testing of Bdshop.com: Authentication, Profile, Cart, Checkout, Product, and Session Management
