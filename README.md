@@ -7,7 +7,7 @@
 
 # BD Shop – Software Quality Assurance (SQA) Project
 
-## 📌 Project Overview
+## Project Overview
 This repository contains a complete **Manual Software Quality Assurance (SQA) documentation set** for **BD Shop**, an e-commerce web application.  
 The project demonstrates a structured and industry-standard testing approach, covering **test scenarios, test cases, and Bug report** to ensure quality, usability, and functional correctness of the system.
 
@@ -15,7 +15,7 @@ This project is created for **learning, practice, and professional skill develop
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Ensure that all functional and UI requirements of BD Shop are properly tested  
 - Maintain clear **Test Metrics, test scenarios, Bug report and test cases**  
 - Identify potential defects early to improve product quality  
@@ -23,7 +23,7 @@ This project is created for **learning, practice, and professional skill develop
 
 ---
 
-## 🧪 Scope of Testing
+## Scope of Testing
 The testing scope includes the following modules:
 
 - Header & Footer
@@ -62,7 +62,7 @@ This repository contains the following SQA documents:
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - Manual Testing
 - Test Scenario Design
 - Test Case Writing
@@ -72,7 +72,7 @@ This repository contains the following SQA documents:
 
 ---
 
-##  Tester Information
+## Tester Information
 - **Role:** Manual SQ
 
 
